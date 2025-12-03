@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Abhiraj — Interactive Profile</title>
+<meta name="description" content="Abhiraj — Full-stack developer. Interactive 3D contributions, animated scoreboard, dark/light toggle, and live GitHub stats." />
+
+
+<!-- SEO: Open Graph -->
+<meta property="og:title" content="Abhiraj — Interactive Profile" />
+<meta property="og:description" content="3D contributions graph, live stats and animations — built with Three.js and Canvas." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://abhiraj-creator.github.io/" />
+<meta property="og:image" content="https://raw.githubusercontent.com/Abhiraj-creator/Abhiraj-creator/main/assets/og-preview.png" />
+
+
+<!-- JSON-LD Structured Data (Person + Website) -->
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Person",
+"name": "Abhiraj",
+"url": "https://abhiraj-creator.github.io/",
+"sameAs": ["https://linkedin.com/in/Abhiraj Bhati","https://instagram.com/abhiraj__bhati","https://x.com/@AbhXraj"],
+"jobTitle": "Full-Stack Developer",
+"description": "Full-stack developer building modern experiences and scalable systems."
+}
+</script>
+
+
+<style>
+:root{
+--bg:#0b1020; --fg:#e6eef8; --muted:#9aa7bf; --accent:#7c5cff;
+}
+[data-theme='light']{ --bg:#f6f8fb; --fg:#0b1020; --muted:#566175; --accent:#6c63ff; }
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:Inter,system-ui,Segoe UI,Roboto,"Helvetica Neue",Arial}
+header{display:flex;align-items:center;justify-content:space-between;padding:20px 28px}
+.brand{display:flex;gap:14px;align-items:center}
+.brand h1{margin:0;font-size:20px}
+.controls{display:flex;gap:8px;align-items:center}
+main{display:grid;grid-template-columns:1fr 420px;gap:24px;padding:24px}
+.card{background:linear-gradient(180deg,rgba(255,255,255,0.02),transparent);padding:16px;border-radius:12px;box-shadow:0 8px 30px rgba(2,6,23,0.6)}
+#three-wrap{height:560px;border-radius:12px;overflow:hidden}
+canvas{display:block}
+footer{padding:18px;text-align:center;color:var(--muted)}
+
+
+/* Snake scoreboard */
+#snake{width:100%;height:220px;border-radius:10px;background:linear-gradient(180deg, rgba(255,255,255,0.015),transparent);}
+const data = Array.from({length:7*30}).map((_,i)=>Math.random());
