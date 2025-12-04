@@ -99,30 +99,32 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiraj-creator&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
-## 🏆 GitHub Achievements
+---
 
-<!-- Trophies (fallback theme ensures visible rendering) -->
+## 🏆 GitHub Achievements & Stats
+
+<!-- Reliable stats + top languages (vercel app, usually stable) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhiraj-creator&theme=gruvbox&no-frame=false&no-bg=false&margin-w=8" alt="GitHub Trophies" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Abhiraj-creator&show_icons=true&theme=dark&count_private=true&hide_title=true&cache_seconds=1800" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiraj-creator&layout=compact&theme=dark&cache_seconds=1800" alt="Top languages" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Activity Highlights (always-up badges)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhiraj-creator&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiraj-creator&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/Abhiraj-creator?label=Followers&style=for-the-badge" alt="Followers" />
 
----
+  <!-- Public repos -->
+  <img src="https://img.shields.io/github/repos/Abhiraj-creator?label=Public%20Repos&style=for-the-badge" alt="Repos" />
 
-## 🚀 Activity Highlights
+  <!-- Last commit for THIS repo (replace second segment if the repo name is different) -->
+  <img src="https://img.shields.io/github/last-commit/Abhiraj-creator/Abhiraj-creator?label=Last%20Commit&style=for-the-badge" alt="Last commit" />
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Abhiraj-creator?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repos/Abhiraj-creator?label=Public%20Repos&style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/Abhiraj-creator/Abhiraj-creator?label=Last%20Commit&style=for-the-badge" />
+  <!-- Stars (total across repos is not available via a single badge reliably; this gives repo stars if needed) -->
+  <img src="https://img.shields.io/github/stars/Abhiraj-creator/Abhiraj-creator?label=This%20Repo%20Stars&style=for-the-badge" alt="Repo stars" />
 </p>
 
 ---
