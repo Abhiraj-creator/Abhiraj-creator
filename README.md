@@ -97,9 +97,35 @@
 ![](https://github-readme-stats.vercel.app/api?username=Abhiraj-creator&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Abhiraj-creator&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiraj-creator&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Abhiraj-creator&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Achievements
+
+<!-- Trophies (fallback theme ensures visible rendering) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhiraj-creator&theme=gruvbox&no-frame=false&no-bg=false&margin-w=8" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhiraj-creator&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiraj-creator&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+## 🚀 Activity Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Abhiraj-creator?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/Abhiraj-creator?label=Public%20Repos&style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/Abhiraj-creator/Abhiraj-creator?label=Last%20Commit&style=for-the-badge" />
+</p>
+
+---
 
 
 
