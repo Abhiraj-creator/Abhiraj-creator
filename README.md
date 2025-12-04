@@ -1,5 +1,57 @@
-# 💫 About Me:
-- 👋 Hi, I’m @Abhiraj-creator<br>-Developer | Passionate about building modern experiences and designing scalable and effiecient systems<br>love to explore tech under the hood💡
+## 💫 About Me
+
+<p align="center">
+  <!-- Typing animation (lines rotate) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=26&duration=2500&pause=800&center=true&width=720&height=64&lines=Hi,+I'm+@Abhiraj-creator;Developer+%E2%80%A2+Builder+%E2%80%A2+Tech+Enthusiast;Crafting+modern+digital+experiences+%26+scalable+systems;Exploring+tech+under+the+hood+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
+
+<p align="center" style="margin-top:8px">
+  <b>Designer of smooth interfaces • Builder of reliable systems • Student of how things work</b>
+</p>
+
+---
+
+<div align="center">
+
+<!-- Animated micro-cards (emoji + subtle glow) -->
+<table><tr>
+<td align="center" width="220" style="padding:10px">
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=16&duration=1800&center=true&width=200&height=26&lines=🧩+Problem+Solver" alt="Problem solver" />
+    <div style="color:#9aa7bf;font-size:13px;margin-top:6px">I break down hard problems & ship pragmatic solutions.</div>
+  </div>
+</td>
+<td align="center" width="220" style="padding:10px">
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=16&duration=1800&center=true&width=200&height=26&lines=⚡+Performance+Focused" alt="Performance" />
+    <div style="color:#9aa7bf;font-size:13px;margin-top:6px">Fast-loading, accessible, and delightful experiences.</div>
+  </div>
+</td>
+<td align="center" width="220" style="padding:10px">
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=16&duration=1800&center=true&width=200&height=26&lines=🎛️+Animations+%26+3D" alt="Animations" />
+    <div style="color:#9aa7bf;font-size:13px;margin-top:6px">GSAP, Three.js & micro-interactions to bring UI to life.</div>
+  </div>
+</td>
+</tr></table>
+
+</div>
+
+---
+
+### What I love building
+- 🚀 High-performance web apps (Next.js, Vite)  
+- 🎨 Interactive UIs & micro-animations (GSAP / Three.js)  
+- ☁️ Cloud-native services & scalable architectures (Docker, Kubernetes, AWS)
+
+---
+
+### Quick fun facts
+- 🔧 I enjoy reverse-engineering how things work under the hood.  
+- 🧪 I test everything — performance, accessibility, and UX.  
+- 🎮 I sometimes build playful demos — think animated scoreboard & 3D visualizers.
+
+---
 
 
 ## 🌐 Socials:
