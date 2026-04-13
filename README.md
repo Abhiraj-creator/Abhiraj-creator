@@ -1,3 +1,27 @@
+# 💫 Abhiraj Singh Bhati | Full-Stack Developer
+
+**Full-Stack Developer** specializing in **React**, **Node.js**, **GSAP animations**, and **Three.js 3D experiences**. Building modern web applications with **Next.js**, **TypeScript**, and **AI integration**.
+
+## 🔧 Tech Stack & Expertise
+- **Frontend:** React 19, Next.js 15, Vite, TypeScript, Tailwind CSS, GSAP, Three.js
+- **Backend:** Node.js, Express.js, MongoDB, PostgreSQL, Supabase
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Firebase
+- **AI/ML:** Gemini API, AI-powered applications, RAG systems
+
+## 🏆 Notable Projects
+- **MediTriage AI** - AI-powered medical diagnostics system (Skitech Innothon 3.0)
+- **SafeCampus** - Disaster preparedness platform (Hackathon Winner)
+- **ILLYUSTRATE** - AI code intelligence SaaS platform
+
+## 📈 GitHub Stats
+[Keep your existing stats badges]
+
+## 🌐 Connect With Me
+- 🌍 Portfolio: [abhirajbhati.in](https://abhirajbhati.in)
+- 💼 LinkedIn: [Abhiraj Bhati](https://linkedin.com/in/abhiraj-b-8336b332b)
+- 📧 Email: abhirajbhati676@gmail.com
+- 📍 Location: Mandsaur, Madhya Pradesh, India
+
 ## 💫 About Me
 
 <p align="center">
