@@ -22,33 +22,8 @@
 - 📧 Email: abhirajbhati676@gmail.com
 - 📍 Location: Mandsaur, Madhya Pradesh, India
 
-## 💫 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Abhiraj-creator;Developer+%7C+Builder+%7C+Tech+Enthusiast;I+love+creating+modern+%26+scalable+digital+experiences" alt="Typing intro" />
-</p>
 
----
-
-### 🚀 What I Do
-<table align="center">
-<tr>
-<td align="center" width="250">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&center=true&vCenter=true&width=220&height=30&lines=Problem+Solver" alt="Problem Solver" />
-  <div style="font-size:13px;color:#9aa7bf;">🧩 I break down hard problems & build logical solutions.</div>
-</td>
-
-<td align="center" width="250">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&center=true&vCenter=true&width=220&height=30&lines=Performance+Focused" alt="Performance" />
-  <div style="font-size:13px;color:#9aa7bf;">⚡ Fast, optimized, accessible experiences.</div>
-</td>
-
-<td align="center" width="250">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&center=true&vCenter=true&width=220&height=30&lines=Animations+and+3D" alt="Animations" />
-  <div style="font-size:13px;color:#9aa7bf;">🎛️ GSAP, Three.js & smooth micro-interactions.</div>
-</td>
-</tr>
-</table>
 
 ---
 
