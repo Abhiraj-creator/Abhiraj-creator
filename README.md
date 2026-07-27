@@ -3,10 +3,10 @@
 **Full-Stack Developer** specializing in **React**, **Node.js**, **GSAP animations**, and **Three.js 3D experiences**. Building modern web applications with **Next.js**, **TypeScript**, and **AI integration**.
 
 ## 🔧 Tech Stack & Expertise
-- **Frontend:** React 19, Next.js 15, Vite, TypeScript, Tailwind CSS, GSAP, Three.js
+- **Frontend:** React 19, Next.js 15, Vite, TypeScript, Tailwind CSS,Redux, GSAP, Three.js
 - **Backend:** Node.js, Express.js, MongoDB, PostgreSQL, Supabase
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, Firebase
-- **AI/ML:** Gemini API, AI-powered applications, RAG systems
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Firebase,CI/CD
+- **GenAI:** LLM, GPT transformer, Gemini API,Mistral API,Cohere API, langchain,Langgraph, AI-powered applications, RAG systems,VEctor DB(pinecone)
 
 ## 🏆 Notable Projects
 - **MediTriage AI** - AI-powered medical diagnostics system (Skitech Innothon 3.0)
